@@ -8,4 +8,6 @@
 - [DoğruFatura](https://github.com/m-calimlier/DogruFatura/releases/tag/v1.2.1)
 - [DoğruTemin](https://github.com/m-calimlier/DogruTemin/releases/tag/v4.5.0)
 
-Vercel ana dalı izleyerek bu statik siteyi otomatik yayımlar.
+## Yayınlama
+
+Bu statik site GitHub'a aktarıldığında Vercel, ana dalı izleyerek her gönderimde otomatik yayınlayabilir. Derleme komutu gerekmez; kök dizindeki `index.html` doğrudan sunulur.
